@@ -72,7 +72,7 @@ app.get('/', (req, res) => {
             <br>
             <p>
                 Get EXPENSE_CONTROLLER_TOOL: 
-            <a href="https://github.com/RonakPatel2468/EXPENSE_CONTROLLER_TOOL.git" target="_blank">Repository:Education_Management_System </a>
+            <a href="https://github.com/RonakPatel2468/EDUCATION_MANAGEMENT_SYSTEM.git" target="_blank">Repository:Education_Management_System </a>
             </p>
         </center>
     `);
